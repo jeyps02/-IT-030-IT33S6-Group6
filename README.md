@@ -7,7 +7,7 @@ This R Shiny dashboard explores the influence of student habits and demographics
 - **Course**: IT-030 – IT33S6  
 - **Group**: Group 6  
 - **Project Title**: Student Habits vs Academic Performance Dashboard  
-- **Institution**: [Your University Name Here]
+- **Institution**: Technological Institute of the Philippines - Quezon City
 
 ## 👥 Creators
 
